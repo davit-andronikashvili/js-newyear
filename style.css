@@ -29,6 +29,7 @@ body{
     justify-content: center;
 }
 .text{
+    color:red;
     font-size: 30px;
     line-height: 50px;
     margin: 0 50px;
@@ -36,4 +37,5 @@ body{
 .el{
     text-align: center;
     font-size: 25px;
+    color: red;
 }
